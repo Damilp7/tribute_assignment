@@ -1,0 +1,22 @@
+.container{
+  background-color: #8A0707;
+  margin-top: 40px;
+  border-radius: 6px;
+}
+.image{
+  background-image: url(images/keyboard.jpg);
+  background-size: cover;
+  background-color: #7e0303;
+  background-blend-mode: overlay;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
